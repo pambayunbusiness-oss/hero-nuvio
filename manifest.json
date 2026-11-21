@@ -1,0 +1,1 @@
+{"id":"local.hero.pemanis","version":"1.0.0","name":"Hero Pemanis","description":"Hero gambar sendiri","resources":["catalog","meta"],"types":["movie"],"idPrefixes":["customhero"],"catalogs":[{"type":"movie","id":"hero-pemanis","name":"Hero Pemanis"}]}
